@@ -6,6 +6,7 @@ def say_hello(name = "Ruby Programmer")
   
 end
 
-# Method Outputs "Hello Ruby Programmer" when a name is not provided. #
+# accepts an argument of a name and prints out Hello with that Name.
+# defaults to Ruby Programmer when no name is passed in.
 
 puts say_hello
